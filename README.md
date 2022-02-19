@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-**Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true"/>
-
-**Frequently used language**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonlan01&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/>
+<table style="width:100%">
+  <tr>
+    <th><b>Stats</b></th>
+    <th><b>Frequently used language</b></th>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonlan01&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/></td>
+  </tr>
+</table>
 
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
