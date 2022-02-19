@@ -2,7 +2,7 @@
 
 **Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true"/>
 
 **Frequently used language**
 
