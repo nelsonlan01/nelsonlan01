@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
 
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
