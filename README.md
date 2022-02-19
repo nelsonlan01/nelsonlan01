@@ -6,7 +6,7 @@
 
 **Frequently used language**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonlan01&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/>
 
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
