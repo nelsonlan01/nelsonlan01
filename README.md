@@ -15,7 +15,7 @@
 
 </table>
 
-### Holopin 👋
+### Holopin 💻
    [![@nelsonlan's Holopin board](https://holopin.io/api/user/board?user=nelsonlan)](https://holopin.io/@nelsonlan)
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
