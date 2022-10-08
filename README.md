@@ -12,8 +12,11 @@
   <tr>
     <th colspan="2" align= "center"><img src="https://github-profile-trophy.vercel.app/?username=nelsonlan01&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true/" class="center"/></th>
   </tr>
+
 </table>
 
+### Holopin 👋
+   [![@nelsonlan's Holopin board](https://holopin.io/api/user/board?user=nelsonlan)](https://holopin.io/@nelsonlan)
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
