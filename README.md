@@ -4,6 +4,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelsonlan01&theme=tokyonight_duo&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9B2341)](https://git.io/streak-stats)
 
+You are visitor:
+![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
+
 ### Holopin 💻
    [![@nelsonlan's Holopin board](https://holopin.io/api/user/board?user=nelsonlan)](https://holopin.io/@nelsonlan)
    
