@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-<table style="width:100%">
-  <tr>
-    <th><b>Stats</b></th>
-    <th><b>Frequently used language</b></th>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonlan01&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/></td>
-  </tr>
-  <tr>
-    <th colspan="2" align= "center"><img src="https://github-profile-trophy.vercel.app/?username=nelsonlan01&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true/" class="center"/></th>
-  </tr>
+![nelsonlan01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true)
 
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nelsonlan01&theme=tokyonight_duo&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9B2341)](https://git.io/streak-stats)
 
 ### Holopin 💻
    [![@nelsonlan's Holopin board](https://holopin.io/api/user/board?user=nelsonlan)](https://holopin.io/@nelsonlan)
+   
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
