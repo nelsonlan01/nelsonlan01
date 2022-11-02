@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![nelsonlan01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nelsonlan01&theme=tokyonight_duo&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9B2341)](https://git.io/streak-stats)
+![nelsonlan01's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight&count_private=true&card_width=100) [![GitHub Streak](https://streak-stats.demolab.com?user=nelsonlan01&theme=tokyonight_duo&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9B2341&)](https://git.io/streak-stats)
 
 You are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
