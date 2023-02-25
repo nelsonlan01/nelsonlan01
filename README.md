@@ -2,6 +2,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nelsonlan01&theme=tokyonight_duo&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9B2341&card_width=250)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight"/>
 
 You are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
