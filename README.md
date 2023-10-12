@@ -8,7 +8,7 @@ You are visitor:
 ![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
 
 ### Holopin 💻
-   [![@nelsonlan's Holopin board](https://holopin.io/api/user/board?user=nelsonlan)](https://holopin.io/@nelsonlan)
+   [![An image of @nelsonlan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nelsonlan)](https://holopin.io/@nelsonlan)
    
 ### Project(s) Badges (Issued by NelsonLAN's Studio)
 Coming Soon
