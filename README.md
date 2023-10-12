@@ -12,7 +12,9 @@ You are visitor:
 
    
 ### Project(s) Badges (Issued by NelsonLAN's Studio)
-Coming Soon
+Coming Soon! <br>
+![ProjectsBadges drawio (2)](https://github.com/nelsonlan01/nelsonlan01/assets/24426550/e3de265e-0bbd-4c98-b094-c8941539c97d)
+
    
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
