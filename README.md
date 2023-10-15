@@ -13,7 +13,7 @@ You are visitor:
    
 ### Project(s) Badges (Issued by NelsonLAN's Studio)
 Coming Soon! <br>
-![ProjectsBadges drawio (2)](https://github.com/nelsonlan01/nelsonlan01/assets/24426550/e3de265e-0bbd-4c98-b094-c8941539c97d)
+![ProjectsBadges drawio](https://github.com/nelsonlan01/nelsonlan01/assets/24426550/26e9cb84-a6c6-427b-9488-23226d646b0b)
 
    
 <!--
