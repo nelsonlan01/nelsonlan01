@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nelsonlan01&show_icons=true&theme=tokyonight"/>
 
 Welcome to one of my portfolio pages, you are visitor:
-![Visitor Count](https://profile-counter.glitch.me/nelsonlan01/count.svg)
+![](https://komarev.com/ghpvc/?username=nelsonlan01&base=4166)
 
 ### Holopin 💻
    [![An image of @nelsonlan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nelsonlan)](https://holopin.io/@nelsonlan)
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- © Nelson, LAN (2012-2024)
+ © Nelson, LAN (2012-2025)
