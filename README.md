@@ -10,12 +10,11 @@ Welcome to one of my portfolio pages, you are visitor: <br>
 ### Holopin 💻
    [![An image of @nelsonlan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nelsonlan)](https://holopin.io/@nelsonlan)
 
-   
-### Project(s) Badges (Issued by NelsonLAN's Studio)
-Coming Soon! <br>
+
 <img width="1039" height="646" alt="ProjectsBadges drawio" src="https://github.com/user-attachments/assets/ee0fb086-0b18-4c4f-8b3b-d9d6fbac9da7" />
 
-
+### Project(s) Badges
+Coming Soon! <br>
    
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
