@@ -13,7 +13,8 @@ Welcome to one of my portfolio pages, you are visitor: <br>
    
 ### Project(s) Badges (Issued by NelsonLAN's Studio)
 Coming Soon! <br>
-![ProjectsBadges drawio](https://github.com/nelsonlan01/nelsonlan01/assets/24426550/26e9cb84-a6c6-427b-9488-23226d646b0b)
+<img width="1039" height="646" alt="ProjectsBadges drawio" src="https://github.com/user-attachments/assets/ee0fb086-0b18-4c4f-8b3b-d9d6fbac9da7" />
+
 
    
 <!--
