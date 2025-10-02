@@ -15,6 +15,8 @@ Welcome to one of my portfolio pages, you are visitor: <br>
 
 ### Project(s) Badges
 Coming Soon! <br>
+
+「在AI人工智能盛行的年代，請對世界保持批判、博文格物；若然自己失去學習的本質和探究精神，那麼你和被吟唱的機械人別無相異。」
    
 <!--
 **nelsonlan01/nelsonlan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
