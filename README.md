@@ -11,7 +11,7 @@ Welcome to one of my portfolio pages, you are visitor: <br>
    [![An image of @nelsonlan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nelsonlan)](https://holopin.io/@nelsonlan)
 
 
-<img width="1039" height="646" alt="ProjectsBadges drawio" src="https://github.com/user-attachments/assets/ee0fb086-0b18-4c4f-8b3b-d9d6fbac9da7" />
+<img width="859" height="551" alt="ProjectsBadges drawio (1)" src="https://github.com/user-attachments/assets/18ce867a-a757-494a-b616-c392a4c8af16" />
 
 ### Project(s) Badges
 Coming Soon! <br>
