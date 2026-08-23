@@ -10,7 +10,7 @@ Welcome to one of my portfolio pages, you are visitor: 你係第____個人睇呢
    [![An image of @nelsonlan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nelsonlan)](https://holopin.io/@nelsonlan)
 
 
-<img width="859" height="551" alt="ProjectsBadges drawio (1)" src="https://github.com/user-attachments/assets/18ce867a-a757-494a-b616-c392a4c8af16" />
+<img width="820" height="495" alt="ProjectsBadges drawio" src="https://github.com/user-attachments/assets/a58d3741-604f-43c2-afeb-409a5d789724" />
 
 ### Project(s) Badges
 Coming Soon! <br>
